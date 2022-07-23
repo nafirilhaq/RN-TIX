@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022071299302",
+    "project_id": "nha-tix",
+    "storage_bucket": "nha-tix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022071299302:android:b67176d48c9213f4352f27",
+        "android_client_info": {
+          "package_name": "com.nha_tix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022071299302-khi51r99t0aebd66bidj1efckh2vrvqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT5nZGhRB84WkppDuoj8gmMwbPlBACTTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022071299302-khi51r99t0aebd66bidj1efckh2vrvqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
